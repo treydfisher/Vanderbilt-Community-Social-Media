@@ -1,6 +1,6 @@
 # Student-Orgs-Social-Media
 
-A TikTok-inspired social media platform designed exclusively for the Vanderbilt University community. Connect with professors, discover events, and engage with student organizations through short-form video content and posts.
+A short-form content inspired social media platform designed exclusively for the Vanderbilt University community. Connect with professors, discover events, and engage with student organizations through short-form video content and posts.
 
 ## 📱 Overview
 
